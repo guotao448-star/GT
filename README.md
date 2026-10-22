@@ -7,6 +7,7 @@
 - 人工查找代码：先看本页的项目索引，再阅读对应项目的 README。
 - AI 接手开发：先阅读 [AGENTS.md](AGENTS.md)，再查看项目说明、变更记录和相关代码。
 - 新增项目：参照 [项目说明模板](docs/PROJECT_TEMPLATE.md) 编写项目 README。
+- 当前任务与进度：阅读 [2026-10-22 会话交接](docs/SESSION_HANDOFF_2026-10-22.md)。
 
 ## 目录约定
 
